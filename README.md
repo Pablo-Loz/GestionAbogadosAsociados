@@ -1,8 +1,8 @@
 # GestionAbogadosAsociados
-Nombre del Repositorio: OdooWebviewApp
+Nombre del Repositorio: GestionAbogadosAsociados
 Descripción
 
-OdooWebviewApp es una aplicación Android desarrollada con Jetpack Compose que permite a los usuarios acceder a su instancia de Odoo a través de un WebView. La aplicación facilita la entrada de la dirección del servidor Odoo y carga la interfaz del mismo dentro de la aplicación, proporcionando una experiencia integrada y fluida.
+GestionAbogadosAsociados es una aplicación Android desarrollada con Jetpack Compose que permite a los usuarios acceder a su instancia de Odoo a través de un WebView. La aplicación facilita la entrada de la dirección del servidor Odoo y carga la interfaz del mismo dentro de la aplicación, proporcionando una experiencia integrada y fluida.
 Características
 
     Interfaz Moderna: Utiliza Jetpack Compose para una interfaz de usuario moderna y receptiva.
